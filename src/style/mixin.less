@@ -1,0 +1,60 @@
+
+.text-hidden() {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  word-break: break-all;
+}
+
+.text-overflow-multi(@line: 3, @bg: #fff) {
+  position: relative;
+  max-height: @line * 1.5em;
+  margin-right: -1em;
+  padding-right: 1em;
+  overflow: hidden;
+  line-height: 1.5em;
+  text-align: justify;
+  &::before {
+    position: absolute;
+    right: 14px;
+    bottom: 0;
+    padding: 0 1px;
+    background: @bg;
+    content: '...';
+  }
+  &::after {
+    position: absolute;
+    right: 14px;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.2em;
+    background: white;
+    content: '';
+  }
+}
+
+.scroll-hidden(){
+  &::-webkit-scrollbar{
+    width: 0;
+    height: 0;
+    display: none;
+  }
+}
+
+//滚动条样式
+.scroll-bar-style(){
+  &::-webkit-scrollbar {
+    width: 4px;
+    background-color: #fff;
+  }
+  /*定义滚动条轨道 内阴影+圆角*/
+  &::-webkit-scrollbar-track {
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  /*定义滑块 内阴影+圆角*/
+  &::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #d8d8d8;
+  }
+};

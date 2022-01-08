@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="6" viewBox="0 0 12 6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1580cf;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="xial_icon" class="cls-1" d="M236.007,171L230,177.007,223.993,171h12.014Z" transform="translate(-224 -171)"/>
+</svg>

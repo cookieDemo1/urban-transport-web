@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_7" data-name="矩形 7" width="46" height="46" transform="translate(483 250)" fill="#fff" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="shext_icon" transform="translate(-483 -250)" >
+    <path id="shext_icon-2" data-name="shext_icon" d="M283,341a6,6,0,1,1,6-6A6,6,0,0,1,283,341Zm12,14.037V357H271v-1.963a2.8,2.8,0,0,1,2.8-2.8H280v-1.525a16,16,0,1,1,6,0v1.525h6.2A2.8,2.8,0,0,1,295,355.037ZM283,343a8,8,0,1,0-8-8,8,8,0,0,0,8,8Z" transform="translate(223.001 -64.996)" fill="#1bacff" fill-rule="evenodd"/>
+  </g>
+</svg>

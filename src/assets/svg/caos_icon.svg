@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_3" data-name="矩形 3" width="40" height="40" transform="translate(175 120)" fill="none" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="caos_icon" transform="translate(-175 -120)">
+    <path id="caos_icon-2" data-name="caos_icon" d="M622.328,694.725l6.667-2.5H617.146v3.563l-5.553,1.424h10.738V694.72h0Zm-5.182,11.4H629l-6.667-2.85v-2.5H611.591l5.553,1.784v3.561h0Zm-7.9,8.835a1.2,1.2,0,0,0,.867-.644v-30.63a1.19,1.19,0,0,0-.788-.624,1.7,1.7,0,0,0-1.585.389l-8.364,7.712h-9.439a.9.9,0,0,0-.93.87V706.32a.9.9,0,0,0,.93.869h9.439l8.376,7.388a1.7,1.7,0,0,0,1.492.381Z" transform="translate(-414.007 -559.005)" fill="#1bf87b" fill-rule="evenodd"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="46" viewBox="0 0 46 46">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_6" data-name="矩形 6" width="46" height="46" transform="translate(462 250)" fill="#fff" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="qinjcg_icon" transform="translate(-462 -250)" >
+    <path id="qinjcg_icon-2" data-name="qinjcg_icon" d="M650.57,437h-3.14A17.43,17.43,0,0,0,630,454.43v9.77s.116,2.8,2.75,2.8h31.917s3.333.117,3.333-2.862V454.43A17.43,17.43,0,0,0,650.57,437Zm-3.14,5h3.14A12.444,12.444,0,0,1,663,454.43V459H650.5v-9.515a1.5,1.5,0,0,0-3,0V459H635v-4.57A12.444,12.444,0,0,1,647.43,442Z" transform="translate(-164 -179)" fill="#1bacff" fill-rule="evenodd"/>
+  </g>
+</svg>
